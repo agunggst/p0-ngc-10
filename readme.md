@@ -37,3 +37,6 @@ Create a FastAPI app and define two endpoints:
 2. Save this assignment with filename: `p0-ngc-10.py`.
 3. Push your answer into your own GitHub repository.
 4. Additionally, you can deploy your api to vercel
+
+## Deployment
+[Link Deployment](https://p0-ngc-10.vercel.app/docs)
